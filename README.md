@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gangadhar J</h1>
 <h3 align="center">MCA Student | Aspiring Cybersecurity | Passionate about new Technologies</h3>
 
-- 🔭 I’m currently studying inn **MCA**
+- 🔭 I’m currently studying in **MCA**
 
 - 🌱 I’m currently learning **HTML, Python, CSS.**
 
